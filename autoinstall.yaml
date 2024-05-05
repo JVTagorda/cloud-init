@@ -1,6 +1,1 @@
-version: 1
-interactive-sections:
- - network
-identity:
- username: ubuntu
- password: $crypted_pass
+
